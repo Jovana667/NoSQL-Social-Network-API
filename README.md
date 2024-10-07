@@ -10,6 +10,7 @@ This project is a RESTful API for a social network web application where users c
 - [Usage](#usage)
 - [API Routes](#api-routes)
 - [Technologies Used](#technologies-used)
+- [Demonstration video](#demonstration-video)
 - [Questions](#questions)
 
 ## Installation
@@ -63,6 +64,8 @@ npm start
 - MongoDB
 - Mongoose ODM
 
+## Demonstration video
+https://github.com/user-attachments/assets/8502fcbd-fb60-4d60-b957-26daf48bf5f7
 
 ## Questions
 
