@@ -1,5 +1,3 @@
-// utils/dateFormat.js
-
 const dateFormat = (timestamp) => {
   return new Date(timestamp).toLocaleString("en-US", {
     year: "numeric",
